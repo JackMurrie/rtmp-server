@@ -19,9 +19,11 @@ Stream accesible at:
 - http://localhost:8080/stat (stats)
 
 ## Useful
-sudo systemctl reload nginx.service
-stats https://github.com/arut/nginx-rtmp-module/blob/master/stat.xsl
-docker image https://hub.docker.com/r/tiangolo/nginx-rtmp/
+
+- sudo systemctl reload nginx.service
+- stats https://github.com/arut/nginx-rtmp-module/blob/master/stat.xsl
+- docker image https://hub.docker.com/r/tiangolo/nginx-rtmp/
+
 nginx rtmp doco:
 - https://github.com/arut/nginx-rtmp-module/wiki/Directives#exec_push
 - https://github.com/arut/nginx-rtmp-module
